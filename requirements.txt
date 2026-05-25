@@ -1,0 +1,6 @@
+# Desenvolvido por L. A. Leandro Sao Jose dos Campos- SP
+# Data: 25/05/2026
+
+paho-mqtt>=1.6.1,<2.0.0
+pytest>=7.4.0
+pytest-asyncio>=0.21.0
